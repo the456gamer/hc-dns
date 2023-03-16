@@ -1025,6 +1025,10 @@ hackbeats:
   ttl: 1
   type: CNAME
   value: csb-yzetpt.vercel.app.
+hackclubmc:
+  ttl: 1
+  type: A
+  value: 194.140.199.132
 hackbox:
   ttl: 1
   type: CNAME
